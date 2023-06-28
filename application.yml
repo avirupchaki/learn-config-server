@@ -1,8 +1,6 @@
 restURLforTimeWebservice: https://timeapi.io/api/Time/current/zone?timeZone=Europe/
 
 spring:
-  application:
-    name: Learn-Service
   datasource:
     #driverClassName: org.postgreSQL.Driver
     url: jdbc:postgresql://localhost:5432/UserTestDB
